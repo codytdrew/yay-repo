@@ -1,2 +1,2 @@
-# yay-repo
+# ay-repo
 This is a repo
